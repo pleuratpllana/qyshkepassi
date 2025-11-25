@@ -1,6 +1,6 @@
 # QyshKePassi – Wi-Fi QR Code Vault
 
-QyshKePassi (Albanian for “How’s the password?”) is a React 19 + Vite application that lets people generate, share, print, export, and safely store Wi-Fi QR codes. It couples a polished onboarding experience with Supabase authentication, email verification, i18n, theming, and a card vault that travels with the user across devices.
+QyshKePassi (Albanian for “What’s the password?”) is a React 19 + Vite application that lets people generate, share, print, export, and safely store Wi-Fi QR codes. It couples a polished onboarding experience with Supabase authentication, email verification, i18n, theming, and a card vault that travels with the user across devices.
 
 ## Table of Contents
 - [Feature Highlights](#feature-highlights)
