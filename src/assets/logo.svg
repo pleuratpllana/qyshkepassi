@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <g>
+    <g>
+      <path fill="currentColor" d="M42,120.9h79.1V41.8H42V120.9z M54.3,54.1h54.4v54.4H54.3V54.1z"/>
+      <path fill="currentColor" d="M67.4,67.2h28.4v28.4H67.4V67.2z"/>
+      <path fill="currentColor" d="M213.3,41.8h-79.1v79.1h79.1V41.8L213.3,41.8z M201,108.6h-54.5V54.1H201L201,108.6L201,108.6z"/>
+      <path fill="currentColor" d="M159.6,67.2h28.4v28.4h-28.4V67.2z"/>
+      <path fill="currentColor" d="M42,212.8h79.1v-79.1H42V212.8z M54.3,146h54.4v54.4H54.3V146z"/>
+      <path fill="currentColor" d="M67.4,159.1h28.4v28.4H67.4V159.1z"/>
+      <path fill="currentColor" d="M165.4,177.1v-13.8h13.8v-14.1h-13.8v-13.8h-14.1v13.8h-13.8v14.1h13.8v13.8H165.4z"/>
+      <path fill="currentColor" d="M208.8,178.8H195v-13.8h-14.1v13.8h-13.8v14.1h13.8v13.8H195v-13.8h13.8V178.8z"/>
+      <path fill="currentColor" d="M212.3,168.4v-31h-1.1v-3.7h-31v14.1h18v20.6L212.3,168.4L212.3,168.4z"/>
+      <path fill="currentColor" d="M149.3,177.4h-14.1v31h1.1h13.1h18v-14.1h-18V177.4L149.3,177.4z"/>
+      <path fill="currentColor" d="M14.9,59.2c2.6,0,4.6-2.1,4.6-4.6V21.2h30.8c2.6,0,4.6-2.1,4.6-4.6c0-2.6-2.1-4.6-4.6-4.6H14.9c-2.5,0-4.6,2.1-4.6,4.6v38C10.3,57.2,12.4,59.2,14.9,59.2z"/>
+      <path fill="currentColor" d="M241.4,12H206c-2.6,0-4.6,2.1-4.6,4.6s2.1,4.6,4.6,4.6h30.8v33.4c0,2.6
