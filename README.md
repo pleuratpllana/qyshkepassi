@@ -71,6 +71,11 @@ QyshKePassi (Albanian for “How’s the password?”) is a React 19 + Vite appl
 - Buttons and cards respect focus outlines & WCAG contrast by using semantic CSS variables.
 - Motion (Framer Motion, Lottie) is purely decorative; core flows still operate without animation.
 
+
+## Screenshot
+![Screenshot](https://github.com/user-attachments/assets/d543c448-f2b0-4e15-a59a-2f3bfa850147)
+
+
 ## Getting Started
 
 ### Prerequisites
