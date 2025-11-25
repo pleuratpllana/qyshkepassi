@@ -76,7 +76,7 @@ QyshKePassi (Albanian for “What’s the password?”) is a React 19 + Vite app
 ![Screenshot](https://github.com/user-attachments/assets/d543c448-f2b0-4e15-a59a-2f3bfa850147)
 
 ## Live Demo Preview
-- Coming soon
+(https://qyshkepassi.pleuratpllana.com/)
 
 ## Getting Started
 
